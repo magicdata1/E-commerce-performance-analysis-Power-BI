@@ -100,7 +100,7 @@ Ensures transparency and analytical clarity:
 
 ---
 
-# 🛠 Tools & Techniques Used
+# Tools & Techniques Used
 
 - **Power BI Desktop**  
 - **DAX calculations**  
@@ -119,7 +119,7 @@ Ensures transparency and analytical clarity:
 
 ---
 
-# 🙌 Author
+# Author
 Smaragdi Albu  
 Data Technician |  BI Analyst  | Power BI Enthusiast
 
